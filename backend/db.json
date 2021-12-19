@@ -1,0 +1,24 @@
+{
+  "users": [{
+    "id": 1,
+    "name": "Arthur Oliveira",
+    "age": "28",
+    "blood": "A+",
+    "skill": "Cozinhar",
+    "injury": "não",
+    "infected": "não",
+    "capacity": "sim",
+    "observation": ""
+
+    }, {
+      "id": 2,
+      "name": "Jéssika Sousa",
+      "age": "28",
+      "blood": "A+",
+      "skill": "Cozinhar",
+      "injury": "não",
+      "infected": "sim",
+      "capacity": "sim",
+      "observation": ""
+    }]
+}
